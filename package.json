@@ -1,0 +1,29 @@
+{
+  "name": "eleventy-util-filters",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier ./**/*.js --write",
+    "prebuild": "npm test",
+    "start": "",
+    "build": "",
+    "release": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eleventy",
+    "filter",
+    "utility"
+  ],
+  "author": "Wayne Graham",
+  "license": "MIT",
+  "description": "Utility filters for eleventy projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynegraham/eleventy-util-filters"
+  },
+  "homepage": "https://github.com/waynegraham/eleventy-util-filters/#readme",
+  "bugs": {
+    "url": "https://github.com/waynegraham/eleventy-util-filters/issues"
+  }
+}
