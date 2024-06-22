@@ -25,5 +25,13 @@
   "homepage": "https://github.com/waynegraham/eleventy-util-filters/#readme",
   "bugs": {
     "url": "https://github.com/waynegraham/eleventy-util-filters/issues"
+  },
+  "devDependencies": {
+    "luxon": "^3.4.4",
+    "prettier": "^3.3.2",
+    "striptags": "^3.2.0"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
   }
 }

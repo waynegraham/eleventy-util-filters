@@ -8,6 +8,10 @@ yarn-error.log*
 # package distribution folder
 dist
 
+# lock files
+package-lock.json
+yarn.lock
+
 # Runtime data
 pids
 *.pid
